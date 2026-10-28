@@ -34,8 +34,8 @@ export default function Detail() {
         <dd>{item.sutradara}</dd>
         <dt>Tahun Rilis</dt>
         <dd>{item.tahunRilis}</dd>
-        <dt>Rating</dt>
-        <dd>Rating IMDB: {item.rating}</dd>
+        <dt>Rating IMDB</dt>
+        <dd>{item.rating}</dd>
       </dl>
       <div className="aksi">
         <button type="button" onClick={konfirmasiHapus}>
