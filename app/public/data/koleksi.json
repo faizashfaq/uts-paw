@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "How to Lose a Guy in 10 Days",
+    "kategori": "Romance",
+    "sutradara": "Donald Petrie",
+    "tahunRilis": 2003,
+    "rating": 6.6
+  },
+  {
+    "id": "2",
+    "judul": "Planet of the Apes",
+    "kategori": "Sci-Fi",
+    "sutradara": "Franklin J. Schaffner",
+    "tahunRilis": 1968,
+    "rating": 8.0
+  },
+  {
+    "id": "3",
+    "judul": "Insidious: Out of the Further",
+    "kategori": "Horror",
+    "sutradara": "Jacob Chase",
+    "tahunRilis": 2026,
+    "rating": "6.0"
+  },
+  {
+    "id": "4",
+    "judul": "500 Days of Summer",
+    "kategori": "Romance",
+    "sutradara": "Marc Webb",
+    "tahunRilis": 2009,
+    "rating": 7.6
+  },
+  {
+    "id": "5",
+    "judul": "All the Bright Places",
+    "kategori": "Romance",
+    "sutradara": "Brett Haley",
+    "tahunRilis": 2020,
+    "rating": 6.6
+  },
+  {
+    "id": "6",
+    "judul": "La La Land",
+    "kategori": "Romance",
+    "sutradara": "Damien Chazelle",
+    "tahunRilis": 2016,
+    "rating": 8.0
+  },
+  {
+    "id": "7",
+    "judul": "Resident Evil",
+    "kategori": "Action",
+    "sutradara": "Zach Cregger",
+    "tahunRilis": 2026,
+    "rating": 7.5
+  },
+  {
+    "id": "8",
+    "judul": "The Odyssey",
+    "kategori": "Action",
+    "sutradara": "Christopher Nolan",
+    "tahunRilis": 2026,
+    "rating": 8.4
+  },
+  {
+    "id": "9",
+    "judul": "My Stupid Boss",
+    "kategori": "Comedy",
+    "sutradara": "Upi Avianto",
+    "tahunRilis": 2016,
+    "rating": 7.1
+  },
+  {
+    "id": "10",
+    "judul": "Agak Laen",
+    "kategori": "Comedy",
+    "sutradara": "Muhadkly Acho",
+    "tahunRilis": 2024,
+    "rating": 7.5
   }
 ]
