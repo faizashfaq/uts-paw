@@ -68,6 +68,10 @@
   border-radius: 8px;
 }
 
+#kartu:hover{
+  border-color: black;
+}
+
 .kartu h3 {
   margin: 0 0 0.25rem;
   font-size: 1.05rem;
@@ -102,4 +106,16 @@
   .daftar-kartu {
     grid-template-columns: 1fr;
   }
+}
+
+#menu a {
+  text-decoration: none;
+  color: inherit;
+  border-radius: 5px;
+  padding: 0.25rem 0.5rem;
+}
+
+#menu a:hover {
+  background: blue;
+  color: white;
 }

@@ -14,7 +14,7 @@ export default function Layout() {
     <div className="kerangka">
       <header className="kepala">
         <strong>Daftar Tontonan Film dan Serial</strong>
-        <nav className="menu">
+        <nav id="menu" className="menu">
           {MENU.map(({ ke, label }) => (
             <NavLink key={ke} to={ke} end={ke === '/'}>
               {label}
