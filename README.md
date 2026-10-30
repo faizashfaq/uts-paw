@@ -62,16 +62,36 @@ Penilaian akhir selalu memakai `grader/` dan `shared/` versi repo induk, jadi me
 
 Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Kerangka berikut boleh dipakai:
 
-```markdown
-# Nama Aplikasi
 
+# Daftar Tontonan Film dan Serial
+
+```markdown
 Nama: Muhammad Faiz Ashfaq
 NIM: 124140144
 Kelas: RA
 Tema: Daftar Tontonan Film dan Serial
 Deployment: https://faizashfaq.github.io/uts-paw/
-
+```
+- **Halaman Beranda**
 ![Tangkapan layar beranda](docs/beranda.png)
+
+- **Halaman Koleksi**
+![Tangkapan layar koleksi](docs/koleksi.png)
+
+- **Halaman Detail Koleksi**
+![Tangkapan layar detail](docs/detail.png)
+
+- **Halaman Tambah**
+![Tangkapan layar tambah](docs/tambah.png)
+
+- **Halaman Statistik**
+![Tangkapan layar statistik](docs/beranda.png)
+
+- **Halaman Tentang**
+![Tangkapan layar tentang](docs/tentang.png)
+
+- **Halaman 404 Tidak DItemukan**
+![Tangkapan layar tidakditemukan](docs/tidakditemukan.png)
 
 ## Fitur
 
@@ -79,11 +99,13 @@ Deployment: https://faizashfaq.github.io/uts-paw/
 
 ## Menjalankan secara lokal
 
+```markdown
 cd app
 npm install
 npm run dev
+```
 
 ## Konsep React yang dipakai
 
 - ...
-```
+
