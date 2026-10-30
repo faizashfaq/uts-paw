@@ -41,9 +41,10 @@
 
 .kaki {
   padding: 1rem 1.5rem;
-  border-top: 2px solid	#db0000;
-  color: black;
+  color: white;
   font-size: 0.9rem;
+  background-color: #db0000;
+  text-align: center;
 }
 
 .aksi {
